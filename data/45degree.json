@@ -1,0 +1,98 @@
+{
+  "drinks": [
+    {
+      "id": "0",
+      "title": "Milk Tea",
+      "items": [
+        {
+          "id": "0",
+          "title": "Original Milk Tea",
+          "price": "4.75"
+        },
+        {
+          "id": "1",
+          "title": "Roassted Milk Tea",
+          "price": "5.10"
+        },
+        {
+          "id": "2",
+          "title": "A'Li Mountain Milk Tea",
+          "price": "5.00"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Fresh Milk Tea",
+      "items": [
+        {
+          "id": "0",
+          "title": "Fresh Milk Tea",
+          "price": "5.20"
+        },
+        {
+          "id": "1",
+          "title": "Honey Milk Tea",
+          "price": "5.20"
+        },
+        {
+          "id": "2",
+          "title": "Earl Grey Milk Tea",
+          "price": "5.20"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Coffee",
+      "items": [
+        {
+          "id": "0",
+          "title": "Ameriano",
+          "price": "3.25"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Slush",
+      "items": [
+        {
+          "id": "0",
+          "title": "Slush1",
+          "price": "5.20"
+        },
+        {
+          "id": "1",
+          "title": "Slush2",
+          "price": "5.20"
+        },
+        {
+          "id": "2",
+          "title": "Slush3",
+          "price": "5.20"
+        }
+      ]
+    },
+    {
+      "title": "hiji",
+      "items": [],
+      "id": "QYyD1tm"
+    },
+    {
+      "title": "hiji",
+      "items": [],
+      "id": "S808h_8"
+    },
+    {
+      "title": "hiji",
+      "items": [],
+      "id": "C17asCT"
+    },
+    {
+      "title": "nini",
+      "items": [],
+      "id": "eTr2IAi"
+    }
+  ]
+}

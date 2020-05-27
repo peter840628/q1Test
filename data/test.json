@@ -1,0 +1,210 @@
+{
+  "drinks": [
+    {
+      "id": 0,
+      "typeId": null,
+      "title": "orobo",
+      "price": null
+    },
+    {
+      "id": 1,
+      "typeId": 0,
+      "title": "Roassted Milk Tea",
+      "price": 5.1
+    },
+    {
+      "id": 2,
+      "typeId": 0,
+      "title": "A'Li Mountain Milk Tea",
+      "price": 5
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "title": "Fresh Milk Tea",
+      "price": 5.2
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "title": "Honey Milk Tea",
+      "price": "5.20"
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "title": "Earl Grey Milk Tea",
+      "price": 5.2
+    },
+    {
+      "id": 6,
+      "typeId": 2,
+      "title": "Ameriano",
+      "price": 3.25
+    },
+    {
+      "id": 7,
+      "typeId": 3,
+      "title": "Cherry Slush",
+      "price": 5.2
+    },
+    {
+      "id": 8,
+      "typeId": 3,
+      "title": "Grape Slush",
+      "price": 5.2
+    },
+    {
+      "id": 9,
+      "typeId": 3,
+      "title": "Taro Slush",
+      "price": 5.2
+    },
+    {
+      "title": null,
+      "typeId": null,
+      "id": 10,
+      "price": null
+    }
+  ],
+  "types": [
+    {
+      "id": 0,
+      "title": "Milk Tea"
+    },
+    {
+      "id": 1,
+      "title": "Fresh Milk Tea"
+    },
+    {
+      "id": 2,
+      "title": "Coffee"
+    },
+    {
+      "id": 3,
+      "title": "Slush"
+    }
+  ],
+  "tables": [
+    {
+      "id": 0,
+      "num": "銀腿 1 桌",
+      "tableTimerStart": 1590069530971,
+      "timerSeconds": 82284,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 82284
+    },
+    {
+      "id": 1,
+      "num": "銀腿 2 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 35,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 2,
+      "num": "銀腿 3 桌",
+      "tableTimerStart": 1589987147403,
+      "timerSeconds": 9,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 9
+    },
+    {
+      "id": 3,
+      "num": "金腿 4 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 18,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 4,
+      "num": "金腿 5 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 18,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 5,
+      "num": "斯諾克 6 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 18,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 6,
+      "num": "司諾克 7 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 18,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 7,
+      "num": "美式 8 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 8,
+      "num": "美式 9 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 0
+    },
+    {
+      "id": 9,
+      "num": "美式 10 桌",
+      "tableTimerStart": 0,
+      "timerSeconds": 0,
+      "tableRunning": false,
+      "timerInterval": null,
+      "productPrice": 0,
+      "tableRate": 16,
+      "battle": false,
+      "timeSaved": 0
+    }
+  ]
+}
